@@ -1,4 +1,0 @@
-def calculateAverage(a,b):
-  print("The average is ",(a+b)/2)
-
-calculateAverage(5,7)
