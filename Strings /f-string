@@ -1,5 +1,0 @@
-letter = " My name is {} and I am from {}."
-name ="Samir"
-country="Nepal"
-print(letter.format(name,country))
-print(f" My name is {name} and I am from {country}.")

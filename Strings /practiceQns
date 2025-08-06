@@ -1,9 +1,0 @@
- # Qn1. wap in py to input user's first name and print it's length
-
-name = str(input("enter your first name :"))
-print("length of name :",len(name))
-
-# Qn2. Wap to find the occurrence of #  in a string
-
-str = " I am # the student # of the # MBM ## College."
-print(str.count("#"))
