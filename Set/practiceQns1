@@ -1,9 +1,0 @@
-""" store following word meanings in py dictionary
-table : "a piece of furniture","lists of facts and figures"
-cat:"a small animal" """
-
-meaning = {
-    "table" :[ "a piece of furniture","lists of facts and figures"],
-   "cat" :"a small animal"
-}
-print(meaning)
