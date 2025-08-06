@@ -1,0 +1,10 @@
+""" you are given the list of subjects for stds.
+Assume one classroom is required for 1 subject.
+How many classrooms are needed by all stds."""
+
+# solution
+
+subject = {"python","java","C++","python","javascipt",
+           "java","python","java","C++","C"}
+print(subject)
+print(len(subject),"classrooms are needed by all stds.")

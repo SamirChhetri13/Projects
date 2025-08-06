@@ -1,0 +1,6 @@
+# multiplication example
+
+number = 1
+while number <= 10:
+    print("The multiplication of 3 by",number,"is", 3*number)
+    number += 1

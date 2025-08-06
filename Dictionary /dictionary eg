@@ -1,0 +1,7 @@
+ info = {
+"name" : "Samir",
+"class" : 12,
+"College" :"MBM",
+"age" : 22,
+}
+print(type(info))

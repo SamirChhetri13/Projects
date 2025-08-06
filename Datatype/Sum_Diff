@@ -1,0 +1,6 @@
+a = 500
+b = 200
+sum = a + b
+diff = a - b
+print(sum)
+print(diff)

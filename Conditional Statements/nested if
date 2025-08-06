@@ -1,0 +1,10 @@
+# Nested if 
+
+age = 14
+if( age >= 16):
+    if(age > 25):
+        print("can drink")
+    else :
+        print("cannot drink")
+else :
+    print("cannot drink")

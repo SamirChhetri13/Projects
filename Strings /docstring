@@ -1,0 +1,4 @@
+def square(n):
+    '''takes input as n and returns square of n'''
+    print(n*n)
+    

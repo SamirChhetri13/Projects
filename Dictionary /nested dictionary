@@ -1,0 +1,11 @@
+student_info = {
+    "name" : "Manoj";
+    "subject" :{
+        "science" : 80;
+        "chemistry" : 100;
+        "bbio" : 90
+
+    }
+
+}
+print(student_info)

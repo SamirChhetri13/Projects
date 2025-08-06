@@ -1,0 +1,11 @@
+print("Ko Bancha Crorepati")
+question =("What is the smallest district of Nepal.")
+options = ("A. Kathmandu  B. Bhaktapur  C. Lalitpur D.Parbat")
+print(question)
+print(options)
+
+answer =input("Select the correct answer :")
+if(answer== "B"):
+  print("Correct answer.You have won 1 Crores.")
+else :
+ print("Better luck next time.")

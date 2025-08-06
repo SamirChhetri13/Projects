@@ -1,0 +1,8 @@
+ # type conversion 
+a = 5
+b = 4.44
+sum = a + b
+print(sum)
+
+c = "6"
+print(type(c))

@@ -1,0 +1,9 @@
+"""wap to ask user to enter the names of their 3 favourite
+movies and store them in list"""
+
+Movies = []
+movie1=str(input("Enter the first movie."))
+movie2=str(input("Enter the second movie."))
+movie3=str(input("Enter the third movie."))
+Movies = [movie1,movie2, movie3]
+print(Movies)

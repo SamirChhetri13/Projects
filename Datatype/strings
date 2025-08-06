@@ -1,0 +1,6 @@
+name1='Himshila'
+name2="Samir"
+name3='''Messi'''
+print(name1)
+print(name2)
+print(name3)

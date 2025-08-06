@@ -1,0 +1,5 @@
+str1="this is samir."
+str2="Kathmandu is the capital city of Nepal. \n Nepal is a landlocked country."
+print(len(str1))
+print(len(str2))
+print(str2)

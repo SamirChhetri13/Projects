@@ -1,0 +1,14 @@
+class Person:
+  def __init__(self,name,job):
+     print("Hello ,I am Samir Chhetri")
+     self.name=name
+     self.job=job
+     def info(self):
+      print(f"{self.name} is {self.job}")
+
+      a=Person("Samir","Developer")
+      b=Person("Himshila","Doctor")
+      a.info()
+      b.info()
+
+

@@ -1,0 +1,15 @@
+# example to demonstrate the while loop
+
+number = 10
+while number >= 1:
+    print(number)
+    number -= 1
+ 
+
+# age = int(input("Enter the age of a voter :"))
+# if (age <= 18):
+#      print("You are not eligible tyo vote for the election")
+   
+# else:
+#      print("I am eligible to vote")
+ 

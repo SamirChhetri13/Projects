@@ -1,0 +1,8 @@
+name="samir"
+age = 30
+weight=55
+name2=name
+print(name2)
+print("My name is : ",name)
+print("My age is :",age)
+print("My weight is :",weight)
