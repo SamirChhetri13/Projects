@@ -1,8 +1,0 @@
-class Student:
-    def __init__(self,fullname):
-        self.name = fullname
-
-S1 =Student("Samir_Chhetri")
-print(S1.name)
-
-    
