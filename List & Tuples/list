@@ -1,8 +1,0 @@
-Age1 = 15
-Age2 = 55
-Age3 = 45
-Age4 = 25
-Age5 = 35
-Age = [15, 55, 45, 25, 35]
-print(Age[3])
-print(type(Age))

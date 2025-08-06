@@ -1,5 +1,0 @@
-""" wap to count the no. of stds with "A" grade in
- the following tuple"""
-
-tuple = ("C","D", "A", "A", "B", "B", "A")
-print(tuple.count("A"))
