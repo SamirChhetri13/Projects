@@ -1,7 +1,0 @@
-
-name="samir"
-age = 30
-weight=55.66
-print(type(name))
-print(type(age))
-print(type(weight))
